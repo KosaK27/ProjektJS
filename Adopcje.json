@@ -1,0 +1,60 @@
+{
+    "adoptions": {
+        "1": {
+            "animal_id": "1",
+            "surname": "Kowalski",
+            "pesel": "80051234567",
+            "phone_number": "123456789",
+            "adoption_date": "2025-05-15 14:22:35"
+        },
+        "2": {
+            "animal_id": "2",
+            "surname": "Kowalski",
+            "pesel": "80051234567",
+            "phone_number": "123456789",
+            "adoption_date": "2025-05-20 16:10:47"
+        },
+        "3": {
+            "animal_id": "3",
+            "surname": "Nowak",
+            "pesel": "85062345678",
+            "phone_number": "987654321",
+            "adoption_date": "2025-04-25 09:35:22"
+        },
+        "4": {
+            "animal_id": "4",
+            "surname": "Wiśniewski",
+            "pesel": "90071456789",
+            "phone_number": "456789123",
+            "adoption_date": "2025-05-10 11:50:19"
+        },
+        "5": {
+            "animal_id": "5",
+            "surname": "Lewandowski",
+            "pesel": "82080567890",
+            "phone_number": "321654987",
+            "adoption_date": "2025-05-05 13:25:44"
+        },
+        "6": {
+            "animal_id": "6",
+            "surname": "Szymański",
+            "pesel": "87091678901",
+            "phone_number": "789123456",
+            "adoption_date": "2025-04-30 15:40:31"
+        },
+        "7": {
+            "animal_id": "7",
+            "surname": "Zieliński",
+            "pesel": "88012789012",
+            "phone_number": "654321987",
+            "adoption_date": "2025-05-12 10:15:28"
+        },
+        "8": {
+            "animal_id": "8",
+            "surname": "Dąbrowski",
+            "pesel": "91023890123",
+            "phone_number": "147258369",
+            "adoption_date": "2025-05-18 12:30:55"
+        }
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "animals": {
+        "1": {
+            "species": "Pies",
+            "name": "Burek",
+            "age": 5,
+            "is_adopted": true,
+            "is_vaccinated": true,
+            "last_fed": "2025-06-10 09:15:47",
+            "admission_date": "2025-01-20 12:30:11"
+        },
+        "2": {
+            "species": "Kot",
+            "name": "Goku",
+            "age": 3,
+            "is_adopted": true,
+            "is_vaccinated": false,
+            "last_fed": "2025-06-05 16:22:19",
+            "admission_date": "2025-02-15 08:45:33"
+        },
+        "3": {
+            "species": "Ptak",
+            "name": "Barnaba",
+            "age": 2,
+            "is_adopted": true,
+            "is_vaccinated": true,
+            "last_fed": "2025-05-28 14:10:25",
+            "admission_date": "2025-03-01 11:20:50"
+        },
+        "4": {
+            "species": "Królik",
+            "name": "Tytus",
+            "age": 4,
+            "is_adopted": true,
+            "is_vaccinated": false,
+            "last_fed": "2025-06-15 10:05:12",
+            "admission_date": "2025-04-10 17:55:29"
+        },
+        "5": {
+            "species": "Chomik",
+            "name": "Rex",
+            "age": 1,
+            "is_adopted": true,
+            "is_vaccinated": true,
+            "last_fed": "2025-06-12 13:40:36",
+            "admission_date": "2025-03-25 09:10:44"
+        },
+        "6": {
+            "species": "Żółw",
+            "name": "Pozeracz",
+            "age": 7,
+            "is_adopted": true,
+            "is_vaccinated": true,
+            "last_fed": "2025-06-08 11:25:18",
+            "admission_date": "2025-02-28 15:35:07"
+        },
+        "7": {
+            "species": "Pies",
+            "name": "Szybcior",
+            "age": 6,
+            "is_adopted": true,
+            "is_vaccinated": false,
+            "last_fed": "2025-06-07 08:50:41",
+            "admission_date": "2025-01-30 10:15:22"
+        },
+        "8": {
+            "species": "Kot",
+            "name": "Wincenty",
+            "age": 4,
+            "is_adopted": true,
+            "is_vaccinated": true,
+            "last_fed": "2025-06-11 15:30:55",
+            "admission_date": "2025-04-05 13:25:16"
+        },
+        "9": {
+            "species": "Ptak",
+            "name": "Torpeda",
+            "age": 3,
+            "is_adopted": false,
+            "is_vaccinated": false,
+            "last_fed": "2025-06-09 12:20:33",
+            "admission_date": "2025-03-15 16:40:28"
+        },
+        "10": {
+            "species": "Królik",
+            "name": "Oreo",
+            "age": 2,
+            "is_adopted": false,
+            "is_vaccinated": true,
+            "last_fed": "2025-06-14 17:10:14",
+            "admission_date": "2025-02-20 14:50:39"
+        },
+        "11": {
+            "species": "Chomik",
+            "name": "Loki",
+            "age": 1,
+            "is_adopted": false,
+            "is_vaccinated": false,
+            "last_fed": "2025-06-06 09:35:27",
+            "admission_date": "2025-01-25 11:10:45"
+        },
+        "12": {
+            "species": "Żółw",
+            "name": "Babi",
+            "age": 8,
+            "is_adopted": false,
+            "is_vaccinated": true,
+            "last_fed": "2025-06-13 14:45:52",
+            "admission_date": "2025-04-01 08:20:31"
+        },
+        "13": {
+            "species": "Pies",
+            "name": "Luna",
+            "age": 5,
+            "is_adopted": false,
+            "is_vaccinated": true,
+            "last_fed": "2025-06-10 10:55:09",
+            "admission_date": "2025-03-10 12:15:47"
+        },
+        "14": {
+            "species": "Kot",
+            "name": "Max",
+            "age": 3,
+            "is_adopted": false,
+            "is_vaccinated": false,
+            "last_fed": "2025-06-08 16:25:22",
+            "admission_date": "2025-02-10 09:30:53"
+        },
+        "15": {
+            "species": "Ptak",
+            "name": "Fido",
+            "age": 2,
+            "is_adopted": false,
+            "is_vaccinated": true,
+            "last_fed": "2025-06-12 11:40:38",
+            "admission_date": "2025-01-15 15:45:19"
+        },
+        "16": {
+            "species": "Królik",
+            "name": "Bella",
+            "age": 4,
+            "is_adopted": false,
+            "is_vaccinated": false,
+            "last_fed": "2025-06-07 13:15:44",
+            "admission_date": "2025-03-20 10:25:36"
+        },
+        "17": {
+            "species": "Chomik",
+            "name": "Rudi",
+            "age": 1,
+            "is_adopted": false,
+            "is_vaccinated": true,
+            "last_fed": "2025-06-11 08:30:17",
+            "admission_date": "2025-04-15 14:35:28"
+        },
+        "18": {
+            "species": "Żółw",
+            "name": "Tofik",
+            "age": 6,
+            "is_adopted": false,
+            "is_vaccinated": false,
+            "last_fed": "2025-06-09 15:50:31",
+            "admission_date": "2025-02-25 11:20:44"
+        },
+        "19": {
+            "species": "Pies",
+            "name": "Miki",
+            "age": 7,
+            "is_adopted": false,
+            "is_vaccinated": true,
+            "last_fed": "2025-06-13 10:10:29",
+            "admission_date": "2025-03-05 16:40:15"
+        },
+        "20": {
+            "species": "Kot",
+            "name": "Kora",
+            "age": 4,
+            "is_adopted": false,
+            "is_vaccinated": false,
+            "last_fed": "2025-06-14 12:25:46",
+            "admission_date": "2025-04-10 09:15:32"
+        }
+    },
+    "next_id": 21,
+    "next_adoption_id": 9
+}
