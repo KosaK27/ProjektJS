@@ -12,6 +12,4 @@ Jakub Kosatka, Oleksandr Stankevych
 
 **Uruchamianie**
 
-Zainstaluj Python 3.8+ oraz wymagane biblioteki: tkinter, tkcalendar, matplotlib
-
-Uruchom aplikację poleceniem: python main.py
+Uruchom plik 'Schronisko.exe' znajdujący się w katalogu 'dist'
