@@ -1,0 +1,21 @@
+ID;Imię;Wiek;Gatunek;Zaszczepione;Ostatnie karmienie;Data przyjęcia;Status
+1;Burek;5;Pies;Tak;2025-06-10 09:15:47;2025-01-20 12:30:11;Adoptowane
+2;Goku;3;Kot;Nie;2025-06-05 16:22:19;2025-02-15 08:45:33;Adoptowane
+3;Barnaba;2;Ptak;Tak;2025-05-28 14:10:25;2025-03-01 11:20:50;Adoptowane
+4;Tytus;4;Królik;Nie;2025-06-15 10:05:12;2025-04-10 17:55:29;Adoptowane
+5;Rex;1;Chomik;Tak;2025-06-12 13:40:36;2025-03-25 09:10:44;Adoptowane
+6;Pozeracz;7;Żółw;Tak;2025-06-08 11:25:18;2025-02-28 15:35:07;Adoptowane
+7;Szybcior;6;Pies;Nie;2025-06-07 08:50:41;2025-01-30 10:15:22;Adoptowane
+8;Wincenty;4;Kot;Tak;2025-06-11 15:30:55;2025-04-05 13:25:16;Adoptowane
+9;Torpeda;3;Ptak;Nie;2025-06-09 12:20:33;2025-03-15 16:40:28;W schronisku
+10;Oreo;2;Królik;Tak;2025-06-14 17:10:14;2025-02-20 14:50:39;W schronisku
+11;Loki;1;Chomik;Nie;2025-06-06 09:35:27;2025-01-25 11:10:45;W schronisku
+12;Babi;8;Żółw;Tak;2025-06-13 14:45:52;2025-04-01 08:20:31;W schronisku
+13;Luna;5;Pies;Tak;2025-06-10 10:55:09;2025-03-10 12:15:47;W schronisku
+14;Max;3;Kot;Nie;2025-06-08 16:25:22;2025-02-10 09:30:53;W schronisku
+15;Fido;2;Ptak;Tak;2025-06-12 11:40:38;2025-01-15 15:45:19;W schronisku
+16;Bella;4;Królik;Nie;2025-06-07 13:15:44;2025-03-20 10:25:36;W schronisku
+17;Rudi;1;Chomik;Tak;2025-06-11 08:30:17;2025-04-15 14:35:28;W schronisku
+18;Tofik;6;Żółw;Nie;2025-06-09 15:50:31;2025-02-25 11:20:44;W schronisku
+19;Miki;7;Pies;Tak;2025-06-13 10:10:29;2025-03-05 16:40:15;W schronisku
+20;Kora;4;Kot;Nie;2025-06-14 12:25:46;2025-04-10 09:15:32;W schronisku
